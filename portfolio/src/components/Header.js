@@ -6,6 +6,9 @@ export default function Header() {
           <p className="mt-1 text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
             Yashasvi Chandrabhatta
           </p>
+          <p className="text-lg font-medium text-gray-900 truncate">
+            Email: cyashasvi@gmail.com Phone Number: 9497480681
+          </p>
         </div>
       </div>
     </div>

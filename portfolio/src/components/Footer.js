@@ -51,8 +51,8 @@ const navigation = [
     ),
   },
   {
-    name: "Dribbble",
-    href: "portfoliosrcYashasvi Chandrabhatta - Resume Bootcamp.pdf",
+    name: "Linkeidn",
+    href: "https://www.linkedin.com/in/cyashasvi",
     target: "_blank",
     icon: (props) => (
       <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
